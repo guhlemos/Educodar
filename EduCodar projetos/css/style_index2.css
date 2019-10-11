@@ -1,0 +1,32 @@
+/* PAGE RESET */
+*{
+    margin: 0px;
+    padding: 0px
+}
+/* PAGE CSS */
+.layout{
+    width: auto;
+    background-color: #000978;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu{
+    height: 80px;
+    color: azure;
+    display: flex;
+    align-items: center;
+}
+.topic div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo{
+    width: 600px;
+    height: 600px;
+    padding: 0px 0px 50px 0px;
+}
+.content{
+    margin: 200px 0px 0px 0px;
+    height: 200px;
+}
