@@ -120,7 +120,7 @@
 .end{
     display: flex;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-top: 300px;
     padding: 30px 40px;
     background-color: #f5f5f5;
     width: auto;
@@ -137,12 +137,15 @@
 }
 
 .network{
+    margin-left: 45px;
     padding-top: 30px;
     width: 30px;
     height: 30px;
 }
 
 .footer{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: 10px;
 }
