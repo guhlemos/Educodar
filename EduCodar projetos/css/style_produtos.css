@@ -1,0 +1,41 @@
+/* PAGE RESET */
+*{
+    margin: 0px;
+    padding: 0px
+}
+/* PAGE CSS */
+.layout{
+    width: auto;
+    height: 1020px;
+    background-color: #000978;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.menu{
+    height: 80px;
+    color: azure;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    font-family: Verdana;
+    font-variant: small-caps;
+}
+.ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 60px;
+    padding-left: 60px;
+    font-size: 15pt;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+.logo{
+    display: flex;
+    align-content: center;
+    margin-top: 100px;
+
+}
