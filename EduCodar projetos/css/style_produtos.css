@@ -39,3 +39,22 @@ a{
     margin-top: 100px;
 
 }
+.text{
+    display: flex;
+    align-content: center;
+    width: auto;
+    height: 1020px;
+    color: #757575;
+    font-size: 40px ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 2.5;
+
+}
+.paragrafo{
+    margin: 100px 100px 100px 100px;
+}
+.transicao{
+    width: 500px;
+    height: 500px;
+}
