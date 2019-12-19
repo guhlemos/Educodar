@@ -3,11 +3,11 @@
     let images = [];
     let time = 3000;
 
-    images[0] = './img/caneca1.jpg';
-    images[1] = './img/caderno1.jpg';
-    images[2] = './img/caneta1.jpg';
-    images[3] = './img/cartao_frente1.png';
-    images[4] = './img/cartao_verso1.png';
+    images[0] = 'img/caneca1.jpg';
+    images[1] = 'img/caderno1.jpg';
+    images[2] = 'img/caneta1.jpg';
+    images[3] = 'img/cartao_frente1.png';
+    images[4] = 'img/cartao_verso1.png';
 
     function changeImg(){
 
