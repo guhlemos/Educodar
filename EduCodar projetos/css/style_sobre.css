@@ -41,8 +41,7 @@ a{
 }
 .text{
     display: flex;
-    flex-flow: column wrap;
-    align-items: center;
+    align-content: center;
     width: auto;
     height: 1020px;
     color: #757575;
