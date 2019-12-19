@@ -13,7 +13,7 @@
     align-items: center;
     
 }
-.menu{
+#menu{
     height: 80px;
     color: azure;
     display: flex;
@@ -52,5 +52,5 @@ a{
 
 }
 .paragrafo{
-    margin: 100px 100px 100px 100px;
+    margin: 200px 200px 200px 200px;
 }

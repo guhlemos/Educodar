@@ -53,13 +53,25 @@ a{
 
 }
 .paragrafo{
-    margin: 300px 100px 100px 100px;
+    margin: 200px 100px 100px 100px;
+}
+.api{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+.whatsapp{
+    width: 100px;
+    height: 100px;
 }
 .seta{
     display: flex;
     flex-direction: row-reverse;
     margin-top: 300px;
-
 }
 .seta_img{
     width: 30px;
